@@ -51,7 +51,8 @@ The user after logging in will see a page like this:
 ![image](https://github.com/iamaashi23/Google_Girl_Hackathon_Aashika_Prakash/assets/101196053/01e2328c-4eaa-4ebb-a665-1e37d4cc198f)
 
 So now suppose the user goes to predict his disease.
-![image](https://github.com/iamaashi23/Google_Girl_Hackathon_Aashika_Prakash/assets/101196053/f3fc8975-689c-4c79-8a04-8479499cd519)
+![image](https://github.com/iamaashi23/Google_Girl_Hackathon_Aashika_Prakash/assets/101196053/50eeba6f-b45d-4fc8-9878-d904d2c50cf9)
+
 
 The user can click the predict button to know his disease and then can go to see the respective doctors.
 ![image](https://github.com/iamaashi23/Google_Girl_Hackathon_Aashika_Prakash/assets/101196053/7af4b45b-259e-47f0-a08e-4829dbf2ffc3)
